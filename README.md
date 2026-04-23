@@ -8,13 +8,17 @@
 
 在 Claude Code、Codex、OpenClaw 等支持 Skill 的 Agent 中，直接对话：
 
-> 安装这个 skill: https://github.com/Sunny-Liu2100/Ebook-Reader-skill
+```
+安装这个 skill: https://github.com/Sunny-Liu2100/Ebook-Reader-skill
+```
 
 ---
 
 ### 手动安装
 
-将本仓库的Ebook-Reader-skill文件夹拷贝到本地对应agent工具的 Skills 目录下  
+```
+将本仓库的Ebook-Reader-skill文件夹拷贝到本地对应agent工具的 Skills 目录下。
+```
 
 各工具的 Skills 安装路径：
 
